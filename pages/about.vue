@@ -32,7 +32,7 @@ useHead({
             class="mr-2"
             color="grey-darken-1"
             prepend-icon="mdi-github"
-            href="https://github.com/amvstrm"
+            href="https://github.com/claeler"
           >
             Github
           </v-btn>
